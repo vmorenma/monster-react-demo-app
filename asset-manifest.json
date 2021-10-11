@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/monster-react-demo-app/static/css/main.97a96c06.chunk.css",
+    "main.js": "/monster-react-demo-app/static/js/main.3430f84a.chunk.js",
+    "main.js.map": "/monster-react-demo-app/static/js/main.3430f84a.chunk.js.map",
+    "runtime-main.js": "/monster-react-demo-app/static/js/runtime-main.fdf0a6ae.js",
+    "runtime-main.js.map": "/monster-react-demo-app/static/js/runtime-main.fdf0a6ae.js.map",
+    "static/js/2.03383acf.chunk.js": "/monster-react-demo-app/static/js/2.03383acf.chunk.js",
+    "static/js/2.03383acf.chunk.js.map": "/monster-react-demo-app/static/js/2.03383acf.chunk.js.map",
+    "static/js/3.79c3983b.chunk.js": "/monster-react-demo-app/static/js/3.79c3983b.chunk.js",
+    "static/js/3.79c3983b.chunk.js.map": "/monster-react-demo-app/static/js/3.79c3983b.chunk.js.map",
+    "index.html": "/monster-react-demo-app/index.html",
+    "static/css/main.97a96c06.chunk.css.map": "/monster-react-demo-app/static/css/main.97a96c06.chunk.css.map",
+    "static/js/2.03383acf.chunk.js.LICENSE.txt": "/monster-react-demo-app/static/js/2.03383acf.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/monster-react-demo-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdf0a6ae.js",
+    "static/js/2.03383acf.chunk.js",
+    "static/css/main.97a96c06.chunk.css",
+    "static/js/main.3430f84a.chunk.js"
+  ]
+}
